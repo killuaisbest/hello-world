@@ -5,12 +5,11 @@
        <style>
          #para1 {
              text-align: center;
-             color: red;
-          
-            }
-          </style>
-        </head>
-      <body>
+            color: red;
+        }
+      </style>
+    </head>
+<body>
             
       <p id="para1">Hello World!</p>
       <p>Este parágrafo não é afetado pelo estilo.</p>
