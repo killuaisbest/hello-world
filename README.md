@@ -1,11 +1,13 @@
 # hello-world<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
      <head>
        <style>
-          #para1 {
-              text-align: center;
-              color: red;
-           }
+         #para1 {
+             text-align: center;
+             color: red;
+          
+            }
           </style>
         </head>
       <body>
